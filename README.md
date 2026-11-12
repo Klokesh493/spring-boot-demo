@@ -18,6 +18,10 @@
   <span>中文 | <a href="./README.en.md">English</a></span>
 </p>
 
+## About this fork
+
+This is a learning fork of [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo). I documented the inherited Hello World module as a starting point. Java and Spring MVC handle the HTTP request, and Maven packages the demo module. See the [request flow and local commands](docs/CASE_STUDY.md).
+
 ## 项目简介
 
 `spring boot demo` 是一个用来深度学习并实战 `spring boot` 的项目，目前总共包含 **`66`** 个集成demo，已经完成 **`55`** 个。
