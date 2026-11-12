@@ -157,6 +157,10 @@
 
 Copyright (c) 2018 Yangkai.Shen
 
+## Business problem
+
+A developer exploring the upstream Spring Boot examples needs a small module that traces an HTTP request from routing to response.
+
 ## Project walkthrough
 
 ```mermaid

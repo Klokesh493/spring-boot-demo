@@ -2,7 +2,7 @@
 
 ## Business problem
 
-Use the upstream Hello World module as a small example of the request path through a Spring Boot application.
+A developer exploring the upstream Spring Boot examples needs a small module that traces an HTTP request from routing to response.
 
 ## Reproduce the workflow
 
