@@ -159,4 +159,13 @@ Copyright (c) 2018 Yangkai.Shen
 
 ## Project walkthrough
 
+```mermaid
+flowchart LR
+    A["HTTP GET /hello"]
+    B["Spring Boot MVC binds the request"]
+    C["Hello World module builds the greeting"]
+    D["HTTP greeting response"]
+    A --> B --> C --> D
+```
+
 [Architecture and data flow](docs/ARCHITECTURE.md) · [Business problem, demo, and verification](docs/CASE_STUDY.md)

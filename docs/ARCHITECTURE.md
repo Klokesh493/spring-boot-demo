@@ -4,10 +4,11 @@ Use the upstream Hello World module as a small example of the request path throu
 
 ```mermaid
 flowchart LR
-    N0["HTTP GET /hello"]
-    N1["Spring Boot MVC controller"]
-    N2["Greeting response"]
-    N0 --> N1 --> N2
+    A["HTTP GET /hello"]
+    B["Spring Boot MVC binds the request"]
+    C["Hello World module builds the greeting"]
+    D["HTTP greeting response"]
+    A --> B --> C --> D
 ```
 
 ## Operational boundaries
