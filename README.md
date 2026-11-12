@@ -181,3 +181,7 @@ Follow the Java 8 and Maven walkthrough for the upstream Hello World module.
 Read the [architecture](docs/ARCHITECTURE.md) and [walkthrough](docs/CASE_STUDY.md) for the source path and verification scope.
 
 [Development and review](docs/DEVELOPMENT.md)
+
+## Runbook
+
+[Run, verify, and troubleshoot this project](docs/RUNBOOK.md)
