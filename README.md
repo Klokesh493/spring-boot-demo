@@ -156,3 +156,7 @@
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2018 Yangkai.Shen
+
+## Project walkthrough
+
+[Architecture and data flow](docs/ARCHITECTURE.md) · [Business problem, demo, and verification](docs/CASE_STUDY.md)
