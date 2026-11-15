@@ -189,3 +189,5 @@ Read the [architecture](docs/ARCHITECTURE.md) and [walkthrough](docs/CASE_STUDY.
 ## Runbook
 
 [Run, verify, and troubleshoot this project](docs/RUNBOOK.md)
+
+[Skills and verification](docs/ENGINEERING_NOTES.md)
